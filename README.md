@@ -1,5 +1,7 @@
 # Student-Admission-Reflection Xss
 
+# CVE-2022-2646
+
 ### Xss Payload
 
 ```
